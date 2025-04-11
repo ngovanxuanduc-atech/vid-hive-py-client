@@ -7,7 +7,7 @@ This is the Python client library for interacting with the Vid Hive API. It prov
 To install the `vid-hive-py-client` package, use the following command:
 
 ```bash
-pip install git+https: // github.com/ngovanxuanduc-atech/vid-hive-py-client.git
+pip install git+https://github.com/ngovanxuanduc-atech/vid-hive-py-client.git
 ```
 
 ## Example Usage
